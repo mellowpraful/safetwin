@@ -11,7 +11,7 @@ A repo-ready, two-screen concept prototype for **SafeTwin AI by Vistaraz**, prep
 ## Run locally
 
 Requirements: Python 3 (or any static HTTP server), modern browser.
-# SafeTwin AI — Dynamic Emergency Digital Twin
+## SafeTwin AI — Dynamic Emergency Digital Twin
 
 [![Live Demo](https://safetwin.vercel.app/)
 
