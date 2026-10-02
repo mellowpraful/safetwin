@@ -1,0 +1,10 @@
+{
+  "name": "safetwin-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "SafeTwin AI emergency digital-twin hackathon prototype",
+  "scripts": {
+    "start": "python3 -m http.server 4173"
+  }
+}
